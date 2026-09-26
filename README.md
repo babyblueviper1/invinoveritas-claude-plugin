@@ -5,13 +5,13 @@ verification of any proof, and a public track record of verdicts, so an agent's 
 
 ## What's inside
 - **MCP server** (remote, OAuth 2.1): `https://api.babyblueviper.com/mcp/verify`. Tools: `review` (pre-action verdict, optional
-  signed proof), `prove` and `witness` (signed proofs of outputs and claims), `verify_proof` (free, offline-checkable),
+  signed proof), `witness` (signed, timestamped third-party claims), `verify_proof` (free, offline-checkable),
   `ledger` (free, public verdict track record), `ledger_submit`, `validate`, `conformance_certify`, `audit_agent_readiness`.
 - **Skills**: `pre-action-review` (ask for a second opinion before anything irreversible) and `verification-handshake`
   (demand a proof on what you receive, attach one to what you ship).
 
 ## Free vs paid
-Free, no account: `verify_proof`, `ledger`. Paid calls (`review`, `prove`, `witness`, ...) need a linked account: sign in when
+Free, no account: `verify_proof`, `ledger`. Paid calls (`review`, `witness`, ...) need a linked account: sign in when
 Claude asks (you can create a free account on the consent screen), then fund with Lightning, USDC (x402) or card.
 
 ## What a verdict is not
