@@ -32,5 +32,5 @@ A verdict is a second opinion with stated reasons, not a guarantee. A signed pro
 record hasn't changed. It does not show the outcome will be good.
 
 ## Cost
-`review` is a paid call (sign in with the connector's OAuth, then fund with Lightning, USDC via x402, or card). `verify_proof`
+`review` is a paid call (sign in with the connector's OAuth; new accounts include a few free calls). `verify_proof`
 and `ledger` are free.
