@@ -5,7 +5,7 @@ license: Apache-2.0
 compatibility: Any MCP-capable agentskills client (Hermes, Claude Code, Cursor, Codex, Goose, ...). verify_proof is free + no-auth; review (sign=true) needs a linked invinoveritas account (OAuth sign-in from Claude, or a Bearer key).
 metadata:
   author: invinoveritas
-  homepage: https://api.babyblueviper.com
+  homepage: https://invinoveritas.dev
   mcp_endpoint: https://api.babyblueviper.com/mcp/verify
   verify_endpoint: https://api.babyblueviper.com/verify-proof
   version: "1.0"

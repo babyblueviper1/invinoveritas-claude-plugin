@@ -2,8 +2,8 @@
   "name": "invinoveritas",
   "version": "1.0.0",
   "description": "The verification layer for autonomous agents: a neutral verdict before an irreversible action, a signed proof after, free verification of any proof, and a public track record.",
-  "author": { "name": "invinoveritas", "url": "https://api.babyblueviper.com" },
-  "homepage": "https://api.babyblueviper.com",
+  "author": { "name": "invinoveritas", "url": "https://invinoveritas.dev" },
+  "homepage": "https://invinoveritas.dev",
   "repository": "https://github.com/babyblueviper1/invinoveritas-claude-plugin",
   "license": "Apache-2.0",
   "keywords": ["verification", "agents", "trust", "proof", "pre-action review", "audit", "mcp"]

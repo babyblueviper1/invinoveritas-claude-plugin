@@ -4,7 +4,7 @@ description: "Get a neutral second opinion BEFORE an irreversible action: sendin
 license: Apache-2.0
 metadata:
   author: invinoveritas
-  homepage: https://api.babyblueviper.com
+  homepage: https://invinoveritas.dev
   mcp_endpoint: https://api.babyblueviper.com/mcp/verify
 ---
 

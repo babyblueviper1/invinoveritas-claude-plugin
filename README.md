@@ -19,4 +19,4 @@ A verdict is a reasoned second opinion, not a guarantee of outcome. A proof esta
 hasn't changed; it does not establish that the underlying event happened as described.
 
 ## Links
-Service: https://api.babyblueviper.com · MCP card: https://api.babyblueviper.com/mcp/verify · Verify a proof: https://api.babyblueviper.com/verify-proof
+Website: https://invinoveritas.dev · API: https://api.babyblueviper.com · MCP card: https://api.babyblueviper.com/mcp/verify · Verify a proof: https://api.babyblueviper.com/verify-proof
